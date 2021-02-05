@@ -1,5 +1,5 @@
-# App Pensamentos - Swift
- Aplicativo exibe frases de alguns dos principais personalidades da humanidade.
+# Aplicativos Pensamentos
+ Aplicativo desenvolvido em `Swift` que exibe frases de alguns dos principais personalidades da humanidade.
  
   ### Projeto desenvolvido ultilizando:
   - [x] Swift 5
